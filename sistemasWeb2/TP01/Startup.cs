@@ -10,6 +10,8 @@ using System.Text;
 using System.Threading.Tasks;
 using TP01.Controller;
 
+// MatheusPalinkas, João Tavares
+
 namespace TP01
 {
     public class Startup

@@ -1,4 +1,6 @@
-﻿namespace TP01.Models
+﻿// MatheusPalinkas, João Tavares
+
+namespace TP01.Models
 {
     public class Author
     {

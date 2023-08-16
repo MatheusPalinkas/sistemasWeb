@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// MatheusPalinkas, João Tavares
+
 namespace TP01.Models
 {
     public class Book
